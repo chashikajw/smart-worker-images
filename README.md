@@ -16,7 +16,8 @@ Domestic services android app with a map. Users can search and get information a
 
 you can simply register the app submiting require details 
 
-![Registration page](https://github.com/chashikajw/smart-worker-images/blob/master/signup.png)
+![Registration page]
+<img src="https://github.com/chashikajw/smart-worker-images/blob/master/signup.png" alt="Network Enable" width="160" height="250"><br/>
 
 
 ### If you are a registered user, you can login to the app
@@ -43,6 +44,7 @@ This is the main menu of the app. there are two buttons and image buttons here.
 ![main menu](https://github.com/chashikajw/smart-worker-images/blob/master/mainmenu.png)
 
 
+
 ### Service map.
 
 This is the service map. you can find the all locations of availble services and clicking the markers you can view all details of the services. 
@@ -52,6 +54,7 @@ This is the service map. you can find the all locations of availble services and
 - marker clicking -> view all details of the service 
 
 when you click the marker it apprears the direction button in right bottom, clicking that button you can direct to google maps to find the direction to the location from your location 
+
 
 ![service map](https://github.com/chashikajw/smart-worker-images/blob/master/map.png)
 
@@ -63,16 +66,10 @@ when you click the marker it apprears the direction button in right bottom, clic
 
 filling this details you can add a service to the map. also you can set any location to the service
 
-[service map](https://github.com/chashikajw/smart-worker-images/blob/master/map.png)
-
-![service details](https://github.com/chashikajw/smart-worker-images/blob/master/mapdetails.png)
-
-when you click the marker it apprears the direction button in right bottom, clicking that button you can direct to google maps to find the direction to the location from your location 
 
 ![add service](https://github.com/chashikajw/smart-worker-images/blob/master/addservice.png)
 
 ![submit location](https://github.com/chashikajw/smart-worker-images/blob/master/submitlocation.png)
-
 
 
 
