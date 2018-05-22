@@ -16,8 +16,8 @@ Domestic services android app with a map. Users can search and get information a
 
 you can simply register the app submiting require details 
 
-![Registration page]
-<img src="https://github.com/chashikajw/smart-worker-images/blob/master/signup.png" alt="Network Enable" width="160" height="250"><br/>
+
+<img src="https://github.com/chashikajw/smart-worker-images/blob/master/signup.png" alt="Network Enable" width="300" height="500"><br/>
 
 
 ### If you are a registered user, you can login to the app
