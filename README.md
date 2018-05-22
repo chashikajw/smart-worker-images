@@ -56,23 +56,24 @@ This is the service map. you can find the all locations of availble services and
 when you click the marker it apprears the direction button in right bottom, clicking that button you can direct to google maps to find the direction to the location from your location 
 
 
-<img src="https://github.com/chashikajw/smart-worker-images/blob/master/map.png" alt="Network Enable" width="320" height="550">
+<p><img src="https://github.com/chashikajw/smart-worker-images/blob/master/map.png" alt="Network Enable" width="320" height="550">
 
 <img src="https://github.com/chashikajw/smart-worker-images/blob/master/mapdetails.png" alt="Network Enable" width="320" height="550">
 
 <img src="https://github.com/chashikajw/smart-worker-images/blob/master/direction.png" alt="Network Enable" width="320" height="550"><br>
+</p>
 
 
 ### Add Services.
 
 filling this details you can add a service to the map. also you can set any location to the service
 
-
+<p>
 <img src="https://github.com/chashikajw/smart-worker-images/blob/master/addservice.png" alt="Network Enable" width="320" height="550">
 
 
 <img src="https://github.com/chashikajw/smart-worker-images/blob/master/submitlocation.png" alt="Network Enable" width="320" height="550"><br>
-
+</p>
 
 
 **Used APIs**</br>
