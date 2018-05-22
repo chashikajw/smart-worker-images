@@ -18,9 +18,6 @@ you can simply register the app submiting require details
 
 ![Registration page](https://github.com/chashikajw/smart-worker-images/blob/master/signup.png)
 
-Then You can enter your WiCard Details and Click __Save__ Button. It will be create Your WiCard.
-
-![main page](http://i65.tinypic.com/282448o.jpg)
 
 ### If you are a registered user, you can login to the app
 
