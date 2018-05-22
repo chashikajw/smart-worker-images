@@ -35,10 +35,10 @@ when you login to app you have to enable GPS and internet
 ### Main menu of the app
 
 This is the main menu of the app. there are two buttons and image buttons here. 
--JOB MAP ->  you can view the all services pressing this button
--Add Jobs -> you can add services presiing this button
--Logo(image buton) ->  you can view the all services pressing this button
--Action bar -> LogOut - > you can sign of from the app
+- JOB MAP ->  you can view the all services pressing this button
+- Add Jobs -> you can add services presiing this button
+- Logo(image buton) ->  you can view the all services pressing this button
+- Action bar -> LogOut - > you can sign of from the app
 
 ![main menu](https://github.com/chashikajw/smart-worker-images/blob/master/mainmenu.png)
 
@@ -47,9 +47,9 @@ This is the main menu of the app. there are two buttons and image buttons here.
 
 This is the service map. you can find the all locations of availble services and clicking the markers you can view all details of the services. 
 
--GPS icon -> re locate to your location
--Info icon -> view details of serched loaction
--marker clicking -> view all details of the service 
+- GPS icon -> re locate to your location
+- Info icon -> view details of serched loaction
+- marker clicking -> view all details of the service 
 
 when you click the marker it apprears the direction button in right bottom, clicking that button you can direct to google maps to find the direction to the location from your location 
 
