@@ -6,9 +6,9 @@ chashikajw007@gmail.com | Chashika Weerathunga | chashikajw | IA11
 # Work smart - Earn smart
 
 Domestic services android app with a map. Users can search and get information about nearest domestic services and anyone can request to serve. People also can add services via the app.
-- requre GPS location. 
-- require internet connection.
-- require person etails to register the app
+- Require GPS location. 
+- Require internet connection.
+- Require person etails to register the app
 
 ## Application guide
 
