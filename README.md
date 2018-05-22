@@ -68,11 +68,12 @@ when you click the marker it apprears the direction button in right bottom, clic
 
 filling this details you can add a service to the map. also you can set any location to the service
 
-<p>
-<img src="https://github.com/chashikajw/smart-worker-images/blob/master/addservice.png" alt="Network Enable" width="320" height="550">
+
+<p><img src="https://github.com/chashikajw/smart-worker-images/blob/master/addservice.png" alt="Network Enable" width="320" height="550">
 
 
-<img src="https://github.com/chashikajw/smart-worker-images/blob/master/submitlocation.png" alt="Network Enable" width="320" height="550"><br>
+<img src="https://github.com/chashikajw/smart-worker-images/blob/master/submitlocation.png" alt="Network Enable" width="320" height="550">
+<br>
 </p>
 
 
